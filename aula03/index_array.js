@@ -7,11 +7,11 @@
 // const { Pool } = pg;
 
 // const pool = new Pool({
-//   user: "postgres",
-//   password: "pgadmin",
-//   host: "localhost",
-//   port: 5432,
-//   database: "bootcamp_avanti",
+//   user: "**********",
+//   password: "********",
+//   host: "******",
+//   port:*******,
+//   database: "**********",
 // });
 
 // const usuarios = [
